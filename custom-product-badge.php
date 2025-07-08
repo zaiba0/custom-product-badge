@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Custom Product Badge
- * Plugin URI: https://example.com
+ * Plugin URI: https://Custom Product Badge.com
  * Description: Add custom badges like "New", "Sale", etc., to WooCommerce products with custom text and color.
  * Version: 1.1
- * Author: Your Name
+ * Author: zaiba
  * License: GPL2
  */
 
